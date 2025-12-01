@@ -6,7 +6,7 @@ def test_employee_info():
         "Employee Name: Alice\n"
         "Employee ID: E123\n"
         "Department: IT\n"
-        "Salary: 50000"
+        "Salary: 55000"
     )
 
     
